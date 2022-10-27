@@ -114,14 +114,11 @@ The-super-secret-forever
 # [+] About  : 
 
 ```
-0.Command Line STEGANOGRAPHY TOOL Written in PYTHON 
+0.Command Line Steganography Tool  Written in Python
 
 1. Command Line support 
 
 2.Easy to Automate
 
 3.Both Encode and Decode Option
-
-4.'\u200b' char is used to encode the text
-
 ```
