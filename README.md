@@ -14,8 +14,7 @@
  <b>Steganography Tool &nbsp;</b><sub>- P4ul Jeremi4h</sub>
 <br>
 
-</
-center>
+</center>
 
 ```
 [p4ul@Earth~]$ cat Author.txt
