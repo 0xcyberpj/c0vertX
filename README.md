@@ -16,7 +16,9 @@
 <br>
  <p> 
  > Steganography is the practice or technique of hiding and concealing information in plain sight <br>
+ 
  > Here We Have Used \U200B (Zero Width Space Character ) To Conceal the Secret Message <br>
+ 
  > Simple and user-friendly tool Written in PYTHON 3
  
   <details>
