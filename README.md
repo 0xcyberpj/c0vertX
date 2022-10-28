@@ -13,25 +13,25 @@
 <h2>An Art Of Plain Sight <b>Steganography !</b> </h2> 
 
  <b>C0vertX (Steganography Tool) &nbsp;</b><sub>- P4ul Jeremi4h</sub> <br>
+  ![image](https://user-images.githubusercontent.com/72292872/198609768-9c7fcae7-05e1-4c58-a1fa-846569f92db9.png) <br>
+
 <br>
  <p> 
- > Steganography is the practice or technique of hiding and concealing information in plain sight <br>
+  
+  ❯ Hiding a Secret Text in a plain sight 
+  
+ </p>
+
+
  
- > Here We Have Used \U200B (Zero Width Space Character ) To Conceal the Secret Message <br>
- 
- > Simple and user-friendly tool Written in PYTHON 3
- 
-  <details>
+</div>
+
+ <details>
  <summary>ZWSP </summary>
  <p>commonly abbreviated ZWSP
 this character is intended for invisible word separation and for line break control; it has no width, but its presence between two characters does not prevent increased letter spacing in justification
 </p>
 </details>
- 
- </p>
-
-</div>
-
 
 ```
 [p4ul@Earth~]$ cat Author.txt
@@ -124,3 +124,7 @@ The-super-secret-forever
 
 3.Both Encode and Decode Option
 ```
+
+ 
+ 
+ 
