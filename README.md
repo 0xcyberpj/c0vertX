@@ -12,7 +12,7 @@
 
 <h2>An Art Of Plain Sight <b>Steganography !</b> </h2>  
 
- <b>C0vertX (Steganography Tool) &nbsp;</b><sub>- P4ul Jeremi4h</sub> <br><br>
+ <b>C0vertX (Steganography Tool) &nbsp;</b><sub>- P4ul Jeremi4h</sub> <br>
  
 <br>
  <p> 
